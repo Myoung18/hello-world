@@ -1,3 +1,2 @@
-# hello-world
-This repository is for practicing the GitHub Flow.
-Hi, I'm a junior at the University of Iowa. 
+# description
+I am getting practice using Github with this BAIS pro prep assignment. I am creating a sample repository. 
